@@ -1,6 +1,6 @@
 import Title from "./Title";
 
-const SingleContryRow = ({
+const SingleCountryRow = ({
   title,
   value,
 }: {
@@ -17,4 +17,4 @@ const SingleContryRow = ({
   );
 };
 
-export default SingleContryRow;
+export default SingleCountryRow;
